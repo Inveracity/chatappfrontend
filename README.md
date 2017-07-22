@@ -2,8 +2,6 @@
 
 To run the code you need Rethinkdb and the websocket server written in Go which can be found here: [chatappserver](https://github.com/Inveracity/chatappserver.git)
 
-which can be found here:
-
 ```bash
 git clone https://github.com/Inveracity/chatappfrontend.git
 
